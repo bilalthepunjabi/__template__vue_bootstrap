@@ -8,6 +8,6 @@ tasks:
       yarn build
       yarn dev
 ports:
-  - port: 3000
+  - port: 5173
     visibility: public
     onOpen: open-browser
